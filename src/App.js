@@ -1,4 +1,5 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css'
 import Card from './components/CardComponent/Card';
 import Cat1 from './components/assets/img/cat1.jpg';
 import Cat2 from './components/assets/img/cat2.jpg'
